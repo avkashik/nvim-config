@@ -1,6 +1,6 @@
 # MyNvim
 
-My neovim config. pywal colors, lazy.nvim, and not much else in the way.
+Eli fouts nvim config. pywal colors, lazy.nvim, and not much else in the way.
 
 <p align="center">
   <img src="images/nvim-default.png" width="32%">
