@@ -1,6 +1,6 @@
 # MyNvim
 
-Eli fouts nvim config. pywal colors, lazy.nvim, and not much else in the way.
+ TOP nvim config. pywal, ready lsps.
 
 <p align="center">
   <img src="images/nvim-default.png" width="32%">
@@ -16,7 +16,7 @@ Eli fouts nvim config. pywal colors, lazy.nvim, and not much else in the way.
 ## Install
 
 ```sh
-git clone https://github.com/elifouts/MyNvim ~/.config/nvim
+git clone https://github.com/avkashik/MyNvim ~/.config/nvim
 nvim
 ```
 
